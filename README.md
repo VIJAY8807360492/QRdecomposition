@@ -22,7 +22,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## developed by:vijay k
 ## register number:24901153
 
-## Program:''' 
+## Program:
+'''
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: vijay k
 RegisterNumber: 24901153
