@@ -51,18 +51,7 @@ def QR_Decomposition(A):
 
 
 
-a=np.array(eval(input()))
-QR_Decomposition(a)  
-### Gram-Schmidt Method
-```
 
-
-
-
-
-
-
-```
 
 ## Output
 ![alt text](image.png)
